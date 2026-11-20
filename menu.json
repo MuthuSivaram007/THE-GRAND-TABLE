@@ -1,0 +1,77 @@
+
+{
+  "categories": [
+    "All",
+    "Indian",
+    "Chinese",
+    "Italian"
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "name": "Royal Chicken Biryani",
+      "category": "Indian",
+      "type": "Non-Veg",
+      "description": "Fragrant basmati rice, tender chicken and authentic royal spices.",
+      "price": 549,
+      "image": "assets/indian-food.png",
+      "tag": "Chef's Special",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Paneer Tikka",
+      "category": "Indian",
+      "type": "Veg",
+      "description": "Fresh cottage cheese grilled with aromatic Indian spices.",
+      "price": 399,
+      "image": "assets/indian-food.png",
+      "tag": "Popular",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Schezwan Noodles",
+      "category": "Chinese",
+      "type": "Veg",
+      "description": "Wok-tossed noodles with vegetables and signature Schezwan sauce.",
+      "price": 349,
+      "image": "assets/chinese-food.png",
+      "tag": "Popular",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Chinese Dumplings",
+      "category": "Chinese",
+      "type": "Veg",
+      "description": "Delicate steamed dumplings served with dipping sauce.",
+      "price": 429,
+      "image": "assets/chinese-food.png",
+      "tag": "Chef's Special",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Margherita Pizza",
+      "category": "Italian",
+      "type": "Veg",
+      "description": "Wood-fired pizza with mozzarella, fresh basil and tomato.",
+      "price": 499,
+      "image": "assets/italian-food.png",
+      "tag": "Popular",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Creamy Alfredo Pasta",
+      "category": "Italian",
+      "type": "Veg",
+      "description": "Italian pasta with creamy parmesan sauce.",
+      "price": 449,
+      "image": "assets/italian-food.png",
+      "tag": "Chef's Special",
+      "available": true
+    }
+  ]
+}
